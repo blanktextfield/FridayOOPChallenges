@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "v", "FridayOOPChallenges\v.csproj", "{8B794DAA-4D4F-44B7-8FAF-C4FCF9FA6BA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FridayOOPChallenges", "V2\FridayOOPChallenges.csproj", "{D3BE447D-0487-4A48-B222-14582660D31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamster", "Hamster\Hamster.csproj", "{F4A06DE7-867D-4DCD-832F-35DF66378335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B794DAA-4D4F-44B7-8FAF-C4FCF9FA6BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B794DAA-4D4F-44B7-8FAF-C4FCF9FA6BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B794DAA-4D4F-44B7-8FAF-C4FCF9FA6BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B794DAA-4D4F-44B7-8FAF-C4FCF9FA6BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BE447D-0487-4A48-B222-14582660D31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BE447D-0487-4A48-B222-14582660D31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BE447D-0487-4A48-B222-14582660D31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BE447D-0487-4A48-B222-14582660D31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A06DE7-867D-4DCD-832F-35DF66378335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A06DE7-867D-4DCD-832F-35DF66378335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A06DE7-867D-4DCD-832F-35DF66378335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A06DE7-867D-4DCD-832F-35DF66378335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A966C7C-DAFB-4314-99EF-19A2173BE14C}
+	EndGlobalSection
+EndGlobal

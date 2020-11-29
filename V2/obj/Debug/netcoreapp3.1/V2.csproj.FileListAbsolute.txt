@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\bin\Debug\netcoreapp3.1\V2.exe
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\bin\Debug\netcoreapp3.1\V2.deps.json
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\bin\Debug\netcoreapp3.1\V2.runtimeconfig.json
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\bin\Debug\netcoreapp3.1\V2.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\bin\Debug\netcoreapp3.1\V2.dll
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\bin\Debug\netcoreapp3.1\V2.pdb
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\obj\Debug\netcoreapp3.1\V2.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\obj\Debug\netcoreapp3.1\V2.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\obj\Debug\netcoreapp3.1\V2.AssemblyInfo.cs
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\obj\Debug\netcoreapp3.1\V2.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\obj\Debug\netcoreapp3.1\V2.dll
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\obj\Debug\netcoreapp3.1\V2.pdb
+C:\Users\mammu\source\repos\FridayOOPChallenges\V2\obj\Debug\netcoreapp3.1\V2.genruntimeconfig.cache
